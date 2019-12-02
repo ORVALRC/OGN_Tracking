@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Grenchen" id="0" comment="LSZG 120.1" altitude="430.0">
+      <Location longitude="7.4163889" latitude="47.1813889"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Courtelary" id="0" comment="LSZJ 124.6" altitude="686.0">
+      <Location longitude="7.0902778" latitude="47.1833333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Bressaucourt" id="0" comment="LSZQ 122.05" altitude="569.0">
+      <Location longitude="7.0288889" latitude="47.3925"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Olten" id="0" comment="LSPO 118.775" altitude="418.0">
+      <Location longitude="7.8861111" latitude="47.3422222"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Grenchen" id="0" comment="LSZG 120.1" altitude="430.0">
+      <Location longitude="7.4163889" latitude="47.1813889"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+</Task>
+
