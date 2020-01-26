@@ -28,7 +28,7 @@
     <Waypoint name="COURT" id="0" comment="Landing site="700.0">
       <Location longitude="7.3305150" latitude="47.2431630"/>
     </Waypoint>
-    <ObservationZone type="Line" length="200.0"/>
+    <ObservationZone type="Line" length="2000.0"/>
   </Point>
 </Task>
 
