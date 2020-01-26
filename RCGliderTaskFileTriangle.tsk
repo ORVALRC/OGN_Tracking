@@ -18,7 +18,7 @@
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Lac Vert" id="0" comment="Above the green lake" altitude="900.0">
+    <Waypoint name="Lac Vert" id="0" comment="Above lake" altitude="900.0">
       <Location longitude="7.3218030" latitude="47.2492810"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
